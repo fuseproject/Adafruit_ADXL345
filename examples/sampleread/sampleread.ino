@@ -1,6 +1,6 @@
 #include <Wire.h>
 #include <Adafruit_Sensor.h>
-#include <Adafruit_ADXL345_U.h>
+#include <ADXL345.h>
 
 // Argument is a sensor ID
 ADXL345 accel = ADXL345(12345);

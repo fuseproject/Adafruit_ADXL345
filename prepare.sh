@@ -4,7 +4,7 @@
 # /Users/yourusername/Documents/Arduino/libraries/
 
 LIBRARY_PATH='/Users/'$(whoami)'/Documents/Arduino/libraries/'
-ADXL345='Adafruit_ADXL345/'
+ADXL345='ADXL345/'
 ADASENSOR='Adafruit_Sensor/'
 
 mkdir -p $LIBRARY_PATH$ADXL345
