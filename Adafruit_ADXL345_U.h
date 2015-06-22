@@ -132,3 +132,5 @@ class Adafruit_ADXL345_Unified : public Adafruit_Sensor {
   uint8_t _clk, _do, _di, _cs;
   bool    _i2c;
 };
+
+extern Adafruit_ADXL345_Unified ADXL345;
